@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Reach me in udhay.dev
+Reach me in [udhay.dev](https://udhay.dev)
 
 <!--
 **udhayaas97/udhayaas97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
